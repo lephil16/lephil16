@@ -1,0 +1,7 @@
+body {
+   align-items: flex-end;
+   justify-content: center;
+   min-height: 100vh;
+   baclground-color: var(--darck-color);
+   overflow: hidden;
+   perspective: 1000px;  
